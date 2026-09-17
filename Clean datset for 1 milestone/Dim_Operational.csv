@@ -1,0 +1,9 @@
+operational_key,unit_name,shift,asset_criticality
+1,Alpha Unit,Day,High
+2,Bravo Unit,Night,High
+3,Charlie Unit,Day,Medium
+4,Delta Unit,Night,Critical
+5,Echo Unit,Day,Medium
+6,Foxtrot Unit,Night,Low
+7,Golf Unit,Day,High
+8,Hotel Unit,Night,Medium

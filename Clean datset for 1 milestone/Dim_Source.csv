@@ -1,0 +1,6 @@
+source_key,source_name,source_type,ingestion_status_pct,records_ingested
+1,Incident Logs,Internal,100,640000
+2,Operational Data,Internal,100,510000
+3,Environmental Feeds,Sensor Network,87,480000
+4,External Threat Feeds,Third-Party API,72,470000
+5,Geo / Contextual Metadata,Reference Data,100,350000

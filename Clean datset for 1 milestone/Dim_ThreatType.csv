@@ -1,0 +1,6 @@
+threat_type_key,threat_type_name,category
+1,Intrusion,Security
+2,Physical,Security
+3,Cyber,Security
+4,Environmental,Environmental
+5,Other,General

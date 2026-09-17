@@ -1,0 +1,11 @@
+zone_code,zone_name,region,latitude,longitude,risk_tier
+A,Zone A,Northern District,28.8533,77.2404,Critical
+B,Zone B,Northern District,29.3343,76.5524,High
+C,Zone C,Central Hub,28.6005,76.7176,Medium
+D,Zone D,Central Hub,29.263,76.6401,Low
+E,Zone E,Eastern Corridor,29.1756,76.6376,Medium
+F,Zone F,Eastern Corridor,29.4317,77.1209,High
+G,Zone G,Southern Belt,28.6058,76.7433,Low
+H,Zone H,Southern Belt,29.2513,77.128,Medium
+I,Zone I,Western Zone,28.768,76.5882,Critical
+J,Zone J,Western Zone,29.1399,76.6087,Low
