@@ -70,7 +70,7 @@ The project transitions from unstructured raw logs into an optimized **Star Sche
 ### Milestone 1: Data Integration & Incident Modeling
 > Focuses on dimensional hygiene, primary incident ingestion, threat type breakdown, and regional baseline metrics.
 
-![Milestone 1 Preview](milestone1.png)
+![Milestone 1 Preview](Img1.png)
 
 * **Key Metrics**: 3K Total Incidents, 55.47 Avg TSI, 330 Escalated Incidents, 10.71 Avg Response Time.
 * **Core Visuals**: Regional incident distribution across Delhi-NCR & Haryana, threat category donut chart (`Intrusion` 31.1%, `Cyber` 24.7%), and daily volume trends.
@@ -80,7 +80,7 @@ The project transitions from unstructured raw logs into an optimized **Star Sche
 ### Milestone 2: Threat Intelligence & Temporal Analytics
 > Incorporates statistical time-series monitoring, Z-Score incident surge alarms, and zone-level risk categorization.
 
-![Milestone 2 Preview](milestone2.png)
+![Milestone 2 Preview](Img2.png)
 
 * **Key Metrics**: Dynamic TSI Gauge (58.70), Zone risk matrices (High/Medium/Low indicators).
 * **Statistical Anomaly Detection**: Daily incident Z-Score line chart plotted against critical bounds ($\pm 2\sigma$), flagging sudden surges in attack frequency.
@@ -91,7 +91,7 @@ The project transitions from unstructured raw logs into an optimized **Star Sche
 ### Milestone 3: Geospatial Intelligence & Response Analytics
 > Spatial correlation between incident density, unit allocation, bottleneck zones, and SLA operational adherence.
 
-![Milestone 3 Preview](milestone3.png)
+![Milestone 3 Preview](Img3.png)
 
 * **Key Metrics**: 0.88 SLA Met %, 1 Identified Bottleneck Zone, 8 Response Units Deployed.
 * **Core Visuals**: Incident density categorized by Risk Tier (`Critical`, `High`, `Medium`, `Low`), interactive spatial bubble mapping, and Zone Escalation Rate rankings.
@@ -101,7 +101,7 @@ The project transitions from unstructured raw logs into an optimized **Star Sche
 ### Milestone 4: Risk Intelligence & Executive Analytics
 > Final command view for security leadership combining predictive trend forecasting, platform reliability, and critical hotspot tracking.
 
-![Milestone 4 Preview](milestone4.png)
+![Milestone 4 Preview](Img4.png)
 
 * **Key Metrics**: 58.70 Avg TSI, 0.88 SLA Met %, 0.90 Platform Uptime, 2 Critical Hotspots, 72.22 Forecast TSI.
 * **Advanced Analytics**: Machine learning-driven TSI forecasting with confidence bands evaluating expected security posture shifts into the upcoming month.
