@@ -43,7 +43,7 @@ The project transitions from unstructured raw logs into an optimized **Star Sche
 * **`geo_metadata.csv`**: Region codes, server locations, and facility coordinates.
 * **`environmental_feeds.csv`**: Surrounding physical and contextual system health telemetry.
 
-### 2. Dimensional Data Model (`Clean datset for 1 milestone/`)
+### 2. Dimensional Data Model (`Clean dataset for 1 milestone/`)
 * **Fact Table**:
   * `Fact_Incident`: Central transactional table capturing incident volume, impact duration, response time, and alert levels.
 * **Dimension Tables**:
