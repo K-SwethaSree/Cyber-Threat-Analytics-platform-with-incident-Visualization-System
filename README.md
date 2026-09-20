@@ -70,7 +70,7 @@ The project transitions from unstructured raw logs into an optimized **Star Sche
 ### Milestone 1: Data Integration & Incident Modeling
 > Focuses on dimensional hygiene, primary incident ingestion, threat type breakdown, and regional baseline metrics.
 
-![Milestone 1 Preview](Img1.png)
+<img width="1310" height="741" alt="Img1" src="https://github.com/user-attachments/assets/d960a501-f972-41d2-b74d-2d9a83791edb" />
 
 * **Key Metrics**: 3K Total Incidents, 55.47 Avg TSI, 330 Escalated Incidents, 10.71 Avg Response Time.
 * **Core Visuals**: Regional incident distribution across Delhi-NCR & Haryana, threat category donut chart (`Intrusion` 31.1%, `Cyber` 24.7%), and daily volume trends.
@@ -80,7 +80,7 @@ The project transitions from unstructured raw logs into an optimized **Star Sche
 ### Milestone 2: Threat Intelligence & Temporal Analytics
 > Incorporates statistical time-series monitoring, Z-Score incident surge alarms, and zone-level risk categorization.
 
-![Milestone 2 Preview](Img2.png)
+<img width="1322" height="740" alt="Img2" src="https://github.com/user-attachments/assets/c638f680-a0f5-47cc-a83e-ec7e877204dd" />
 
 * **Key Metrics**: Dynamic TSI Gauge (58.70), Zone risk matrices (High/Medium/Low indicators).
 * **Statistical Anomaly Detection**: Daily incident Z-Score line chart plotted against critical bounds ($\pm 2\sigma$), flagging sudden surges in attack frequency.
@@ -91,7 +91,7 @@ The project transitions from unstructured raw logs into an optimized **Star Sche
 ### Milestone 3: Geospatial Intelligence & Response Analytics
 > Spatial correlation between incident density, unit allocation, bottleneck zones, and SLA operational adherence.
 
-![Milestone 3 Preview](Img3.png)
+<img width="1293" height="748" alt="Img3" src="https://github.com/user-attachments/assets/6b6d012d-bb17-4acb-a3dc-6cf692470975" />
 
 * **Key Metrics**: 0.88 SLA Met %, 1 Identified Bottleneck Zone, 8 Response Units Deployed.
 * **Core Visuals**: Incident density categorized by Risk Tier (`Critical`, `High`, `Medium`, `Low`), interactive spatial bubble mapping, and Zone Escalation Rate rankings.
@@ -101,7 +101,7 @@ The project transitions from unstructured raw logs into an optimized **Star Sche
 ### Milestone 4: Risk Intelligence & Executive Analytics
 > Final command view for security leadership combining predictive trend forecasting, platform reliability, and critical hotspot tracking.
 
-![Milestone 4 Preview](Img4.png)
+<img width="1830" height="1028" alt="Img4" src="https://github.com/user-attachments/assets/3014a7c0-75a7-498d-8d3f-422d9171e64d" />
 
 * **Key Metrics**: 58.70 Avg TSI, 0.88 SLA Met %, 0.90 Platform Uptime, 2 Critical Hotspots, 72.22 Forecast TSI.
 * **Advanced Analytics**: Machine learning-driven TSI forecasting with confidence bands evaluating expected security posture shifts into the upcoming month.
@@ -140,4 +140,3 @@ The project transitions from unstructured raw logs into an optimized **Star Sche
 ├── presentations/            # Milestone slide decks & final submission PPTX files
 ├── report.pbix               # Full interactive Power BI report
 └── README.md                 # Primary project documentation
-
