@@ -28,7 +28,6 @@ Organizations face constant security threats across various geographic locations
 6. [Tech Stack & Skills](#-tech-stack--skills)
 7. [Repository Structure](#-repository-structure)
 8. [How to View This Project](#-how-to-view-this-project)
-9. [About the Author & Contact](#-about-the-author)
 
 ---
 
